@@ -14,7 +14,18 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 </div>
 
 
-## Sou certifcado em: 
+<div>
+  <a href="https://github.com/wms001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wms001&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wms001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+
+  
+  
+  ## Sou certifcado em: 
 
 ✅ Certificação(SFC) - SCRUMStudy
 ✅ Certificação(SMPC) - Scrum Master Profisisonal Certified 
