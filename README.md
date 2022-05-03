@@ -25,8 +25,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 <div> 
   <a href="https://www.linkedin.com/in/wilmar-santos-a90ab888/" target="_blank"><img src="https://img.shields.io/badge/-  LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:wilmar.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  
+  <a href ="mailto:wilmar.santos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 </div>  
        
        
