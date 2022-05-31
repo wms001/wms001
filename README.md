@@ -1,5 +1,4 @@
-# Olá , sou o Wilmar Santos, profissional de tecnologia e estou migrando da area de Infra para a de Dev! Atualmente estou no projeto Oracle One / Alura, me desenvolvendo.
-
+# Olá , sou o Wilmar Santos, profissional de tecnologia e estou em formação Dev! no projeto Oracle One/Alura.
 
 💻 Bem Vindo ao meu perfil!
 
