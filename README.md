@@ -1,4 +1,4 @@
-# Olá , sou o Wilmar Santos, profissional de tecnologia e estou em formação Dev! no projeto Oracle One/Alura.
+# Olá , sou o Wilmar Santos, profissional de tecnologia e conclui a formação Dev! no projeto Oracle One/Alura, ampliando os meus conhecimentos. 
 
 💻 Bem Vindo ao meu perfil!
 
